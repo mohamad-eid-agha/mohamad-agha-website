@@ -1,4 +1,4 @@
 # mohamad-agha-website
 ## Code your future project
-### discreption
+### description
 personal portfolio website built with HTML,CSS.
