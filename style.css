@@ -1,0 +1,6 @@
+img{width: 200px;height:200px;border-radius:15px; display:block; margin:15px auto;}
+img:first-of-type{width:300px;height:300px;}
+span{color:orange;font-weight:bold;}
+.favourite-section{background-color:red;border:4px solid black;padding:11px;border-radius:10px;width:fit-content;}
+#main-title{color:darkred;text-align:center;font-size:50px;letter-spacing:15px;}
+#text{color:darkred;}
